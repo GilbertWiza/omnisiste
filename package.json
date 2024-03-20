@@ -1,0 +1,21 @@
+{
+  "author": "JenniferUllrich",
+  "name": "omnisiste",
+  "description": "logger for npm",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GilbertWiza/omnisiste.git"
+  },
+  "main": "log.js",
+  "dependencies": {
+    "ansi": "~0.1.2"
+  },
+  "devDependencies": {
+    "tap": ""
+  },
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/GilbertWiza/omnisiste.git/issues"
+  }
+}
